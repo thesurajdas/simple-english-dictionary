@@ -16,7 +16,7 @@ body {
     margin: 0 auto;
 }
 nav {
-    background: #553C9A;
+    background: #00aeff;
     color: #fff;
     padding: 1rem 0;
 }
@@ -47,7 +47,7 @@ input {
     outline: none;
 }
 button{
-    background:#553C9A;
+    background:#00aeff;
     color: #fff;
     height: 100%;
     font-size: 16px;
